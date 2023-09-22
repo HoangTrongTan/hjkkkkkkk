@@ -1,0 +1,4 @@
+﻿Visual Studio thì lại không như vậy, nó ép bạn phải xài một khái niệm gọi là “Solution”.
+Theo đó, một hoặc nhiều project sẽ nằm trong 1 solution. Khi bạn mở project được tạo bở
+i dòng lệnh dotnet new * trong Visual Studio
+, nó cũng sẽ tạo ra một cái Solution ất ơ nào đấy rồi nhét cái project của bạn vào.
